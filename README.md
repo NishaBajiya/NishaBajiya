@@ -48,7 +48,6 @@ My research focuses on developing AI and machine learning methods for:
 [![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ---
-
 ## 🤖 Machine Learning
 
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
@@ -61,7 +60,6 @@ My research focuses on developing AI and machine learning methods for:
 [![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-4682B4?style=for-the-badge)](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 
 ---
-
 ## 🧠 Deep Learning
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -70,6 +68,8 @@ My research focuses on developing AI and machine learning methods for:
 [![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)](https://huggingface.co/docs/transformers)
 [![ProtBERT](https://img.shields.io/badge/ProtBERT-4B8BBE?style=for-the-badge)](https://huggingface.co/Rostlab/prot_bert)
 [![ESM](https://img.shields.io/badge/ESM_Protein_LM-6A5ACD?style=for-the-badge)](https://github.com/facebookresearch/esm)
+[![PepBERT](https://img.shields.io/badge/PepBERT-2E8B57?style=for-the-badge)](https://huggingface.co/models?search=PepBERT)
+[![BioBERT](https://img.shields.io/badge/BioBERT-1E88E5?style=for-the-badge)](https://github.com/dmis-lab/biobert)
 
 ---
 
@@ -78,9 +78,8 @@ My research focuses on developing AI and machine learning methods for:
 [![Biopython](https://img.shields.io/badge/Biopython-4CAF50?style=for-the-badge)](https://biopython.org/)
 [![BLAST](https://img.shields.io/badge/NCBI_BLAST-0066CC?style=for-the-badge)](https://blast.ncbi.nlm.nih.gov/)
 [![CD-HIT](https://img.shields.io/badge/CD--HIT-7B68EE?style=for-the-badge)](https://weizhongli-lab.org/cd-hit/)
-[![Pfeature](https://img.shields.io/badge/Pfeature-228B22?style=for-the-badge)](https://webs.iiitd.edu.in/raghava/pfeature/)
-[![EMBOSS](https://img.shields.io/badge/EMBOSS-6A5ACD?style=for-the-badge)](http://emboss.sourceforge.net/)
-[![Sequence Analysis](https://img.shields.io/badge/Sequence_Analysis-008080?style=for-the-badge)](https://en.wikipedia.org/wiki/Sequence_analysis)
+[![pfeature](https://img.shields.io/badge/Pfeature-228B22?style=for-the-badge)](https://webs.iiitd.edu.in/raghava/pfeature/)
+[![Nfeature](https://img.shields.io/badge/Pfeature-228B22?style=for-the-badge)](https://webs.iiitd.edu.in/raghava/nfeature/)
 [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF8C00?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 
 ---
@@ -99,7 +98,6 @@ My research focuses on developing AI and machine learning methods for:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
@@ -107,60 +105,10 @@ My research focuses on developing AI and machine learning methods for:
 
 ## 💻 Development Tools
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/)
-
-### Programming
-- Python
-- R
-- SQL
-- Bash
-
-### Machine Learning
-- Scikit-learn
-- XGBoost
-- CatBoost
-- LightGBM
-- Random Forest
-- Extra Trees
-- SVM
-- MLP
-- Logistic Regression
-- Regression Models
-
-### Deep Learning
-- PyTorch
-- TensorFlow
-- Keras
-  
-### Transformers
-- ESM
-- PepBERT
-- BioBERT
-- ProtBERT
-
-### Bioinformatics
-- Biopython
-- BLAST
-- CD-HIT
-- pfeature
-- Nfeature
-
-### Data Analysis
-- Pandas
-- NumPy
-- SciPy
-- Matplotlib
-- Plotly
-
-### Web Development
-- HTML
-- CSS
-- PHP
-- MySQL
 
 ---
 # Featured Projects
