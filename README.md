@@ -4,6 +4,8 @@
 
 I am a PhD researcher at IIIT Delhi working in Computational Biology.
 
+I enjoy transforming biological data into intelligent computational tools through machine learning, deep learning, and database development.
+
 My research focuses on developing AI and machine learning methods for:
 
 🧬 Antimicrobial Peptide Prediction
@@ -113,11 +115,12 @@ Database of antiviral aptamers.
 - AI-assisted Drug Discovery
 - Therapeutic Peptides
 - Aptamer Therapeutics
+- Graph Neural Networks
 - Large Language Models in Bioinformatics
 
 ---
 ## 🌍 Connect with Me
-
-LinkedIn:https: //www.linkedin.com/in/nisha-bajiya-273023243
-Google Scholar: https://scholar.google.com/citations?user=LaXIfVwAAAAJ&hl=en
-ORCID: https://orcid.org/0000-0002-5075-5386
+📧 Email: nishab@iiitd.ac.in or nishabajiya@outlook.com
+💼 LinkedIn:https: //www.linkedin.com/in/nisha-bajiya-273023243
+🎓 Google Scholar:https://scholar.google.com/citations?user=LaXIfVwAAAAJ&hl=en
+🆔 ORCID:https://orcid.org/0000-0002-5075-5386
