@@ -38,9 +38,6 @@ My research focuses on developing AI and machine learning methods for:
 - Data Science
 
 ---
-
-## 🛠 Technical Skills
-
 # 🛠 Technical Skills
 
 ## 👨‍💻 Programming Languages
