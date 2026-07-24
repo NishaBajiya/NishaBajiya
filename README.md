@@ -36,9 +36,13 @@ Updated, curated repository of experimentally validated cell-penetrating peptide
 ## Technical Toolkit
 
 **Languages:** Python, R, SQL, Bash
+
 **ML/DL:** scikit-learn, PyTorch, TensorFlow, XGBoost, LightGBM, Transformers (ProtBERT, ESM, BioBERT, PepBERT)
+
 **Bioinformatics:** Biopython, NCBI-BLAST, CD-HIT, pfeature, Nfeature
+
 **Data:** Pandas, NumPy, SciPy, Matplotlib/Plotly
+
 **Tools:** Github, Linux, Jupyter, Colab
 
 ---
