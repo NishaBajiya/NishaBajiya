@@ -4,7 +4,7 @@
 
 I build machine learning and deep learning methods for peptide and aptamer informatics, with a focus on antimicrobial resistance and AI-assisted drug discovery.
 
-[LinkedIn](https://www.linkedin.com/in/nisha-bajiya-273023243/) · [Google Scholar](https://scholar.google.com/citations?user=LaXIfVwAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-5075-5386) · nishab@iiitd.ac.in
+[LinkedIn](https://www.linkedin.com/in/nisha-bajiya-273023243/) · [Google Scholar](https://scholar.google.com/citations?user=LaXIfVwAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-5075-5386) · [Mail] (nishab@iiitd.ac.in) or (nishabajiya@outlook.com) 
 
 ---
 
