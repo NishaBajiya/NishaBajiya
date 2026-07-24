@@ -1,5 +1,63 @@
 # Hi 👋 I'm Nisha Bajiya
 
+# Nisha Bajiya
+
+**PhD Researcher, Computational Biology — IIIT Delhi**
+
+I build machine learning and deep learning methods for peptide and aptamer informatics, with a focus on antimicrobial resistance and AI-assisted drug discovery.
+
+[LinkedIn](https://www.linkedin.com/in/nisha-bajiya-273023243/) · [Google Scholar](https://scholar.google.com/citations?user=LaXIfVwAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-5075-5386) · nishab@iiitd.ac.in
+
+---
+
+## Research Focus
+
+- Antimicrobial peptide & antibacterial peptide prediction
+- AI-assisted drug discovery
+- Aptamer informatics and aptamer therapeutics
+- Bioinformatics web server development
+- Applied machine learning & deep learning for biological data
+
+---
+
+## Featured Projects
+
+**[CPPLocPred](https://github.com/NishaBajiya/CPPLocPred)**
+Hierarchical ML framework for subcellular localization prediction of cell-penetrating peptides.
+
+**[CPPsite3](https://github.com/NishaBajiya/CPPsite3)**
+Updated, curated repository of experimentally validated cell-penetrating peptides.
+
+**AntiBP3** — ML framework for predicting antibacterial peptides against gram-positive, gram-negative, and variable bacteria. *(built as part of the AntiBP3 project; see [web server](https://webs.iiitd.edu.in/raghava/antibp3/))*
+
+**EIPpred** — Predicts minimum inhibitory concentration (MIC) of peptides against *E. coli* using ML. *(see [web server](https://webs.iiitd.edu.in/raghava/eippred/))*
+
+**AptCancerDB / AptBacterialDB / AptViralDB** — Curated databases of experimentally validated anticancer, antibacterial, and antiviral aptamers, with search, browse, and visualization modules.
+
+> Repos for the above are being migrated/mirrored here individually — check back or ask if you'd like source access to a specific one.
+
+---
+
+## Technical Toolkit
+
+**Languages:** Python, R, SQL, Bash
+**ML/DL:** scikit-learn, PyTorch, TensorFlow, XGBoost, LightGBM, Transformers (ProtBERT, ESM, BioBERT)
+**Bioinformatics:** Biopython, BLAST, CD-HIT, Pfeature, Nfeature
+**Data:** Pandas, NumPy, SciPy, Matplotlib/Plotly
+**Tools:** Git, Linux, Jupyter
+
+---
+
+## Currently Exploring
+
+Graph neural networks and large language models applied to bioinformatics problems.
+
+---
+
+*Full publication list on [Google Scholar](https://scholar.google.com/citations?user=LaXIfVwAAAAJ&hl=en).*
+
+
+
 ### Computational Biologist | AI for Drug Discovery | Aptamer Theraputics | Bioinformatics
 
 I am a PhD researcher at IIIT Delhi working in Computational Biology.
