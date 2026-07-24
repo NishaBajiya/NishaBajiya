@@ -124,3 +124,9 @@ Database of antiviral aptamers.
 💼 LinkedIn:https: //www.linkedin.com/in/nisha-bajiya-273023243
 🎓 Google Scholar:https://scholar.google.com/citations?user=LaXIfVwAAAAJ&hl=en
 🆔 ORCID:https://orcid.org/0000-0002-5075-5386
+
+[![Email](https://img.shields.io/badge/IIITD_Email-blue?style=for-the-badge&logo=gmail)](mailto:nishab@iiitd.ac.in)
+[![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:nishabajiya@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nisha-bajiya-273023243)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=LaXlfVwAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0002-5075-5386)
