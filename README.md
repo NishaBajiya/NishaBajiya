@@ -78,8 +78,8 @@ My research focuses on developing AI and machine learning methods for:
 [![Biopython](https://img.shields.io/badge/Biopython-4CAF50?style=for-the-badge)](https://biopython.org/)
 [![BLAST](https://img.shields.io/badge/NCBI_BLAST-0066CC?style=for-the-badge)](https://blast.ncbi.nlm.nih.gov/)
 [![CD-HIT](https://img.shields.io/badge/CD--HIT-7B68EE?style=for-the-badge)](https://weizhongli-lab.org/cd-hit/)
-[![pfeature](https://img.shields.io/badge/Pfeature-228B22?style=for-the-badge)](https://webs.iiitd.edu.in/raghava/pfeature/)
-[![Nfeature](https://img.shields.io/badge/Pfeature-228B22?style=for-the-badge)](https://webs.iiitd.edu.in/raghava/nfeature/)
+[![pfeature](https://img.shields.io/badge/pfeature-8b228b?style=for-the-badge)](https://webs.iiitd.edu.in/raghava/pfeature/)
+[![Nfeature](https://img.shields.io/badge/Nfeature-228B22?style=for-the-badge)](https://webs.iiitd.edu.in/raghava/nfeature/)
 [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF8C00?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 
 ---
@@ -114,6 +114,10 @@ My research focuses on developing AI and machine learning methods for:
 # Featured Projects
 ### 🧬 CPPLocPred
 Hierarchical AI framework for Cell Penetrating Peptide subcellular localization prediction.
+
+---
+### 🧬 CPPsite3
+Updated repository of Cell Penetrating Peptides.
 
 ---
 ### 💊 EIPpred
