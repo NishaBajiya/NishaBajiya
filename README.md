@@ -112,7 +112,7 @@ My research focuses on developing AI and machine learning methods for:
 
 ---
 # Featured Projects
-### 🧬 CPPLocPred
+### 🧬 CPPLocPred (https://github.com/NishaBajiya/CPPLocPred)
 Hierarchical AI framework for Cell Penetrating Peptide subcellular localization prediction.
 
 ---
