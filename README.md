@@ -1,21 +1,16 @@
 # Hi 👋 I'm Nisha Bajiya
 
-### PhD Researcher | Computational Biologist | AI for Drug Discovery | Aptamer Theraputics | Bioinformatics
+### Computational Biologist | AI for Drug Discovery | Aptamer Theraputics | Bioinformatics
 
 I am a PhD researcher at IIIT Delhi working in Computational Biology.
 
 My research focuses on developing AI and machine learning methods for:
 
 🧬 Antimicrobial Peptide Prediction
-
 💊 Drug Discovery
-
 🧪 Aptamer Informatics
-
 🧫 Computational Biology
-
 🤖 Machine Learning & Deep Learning
-
 🌐 Bioinformatics Web Servers
 
 ---
@@ -38,14 +33,12 @@ My research focuses on developing AI and machine learning methods for:
 ## 🛠 Technical Skills
 
 ### Programming
-
 - Python
 - R
 - SQL
 - Bash
 
 ### Machine Learning
-
 - Scikit-learn
 - XGBoost
 - CatBoost
@@ -58,16 +51,17 @@ My research focuses on developing AI and machine learning methods for:
 - Regression Models
 
 ### Deep Learning
-
 - PyTorch
 - TensorFlow
 - Keras
-- Transformers
+  
+### Transformers
 - ESM
+- PepBERT
+- BioBERT
 - ProtBERT
 
 ### Bioinformatics
-
 - Biopython
 - BLAST
 - CD-HIT
@@ -75,7 +69,6 @@ My research focuses on developing AI and machine learning methods for:
 - Nfeature
 
 ### Data Analysis
-
 - Pandas
 - NumPy
 - SciPy
@@ -83,46 +76,37 @@ My research focuses on developing AI and machine learning methods for:
 - Plotly
 
 ### Web Development
-
 - HTML
 - CSS
 - PHP
 - MySQL
 
 ---
-
 # Featured Projects
-
 ### 🧬 CPPLocPred
 Hierarchical AI framework for Cell Penetrating Peptide subcellular localization prediction.
 
 ---
-
 ### 💊 EIPpred
 Prediction of inhibitory concentration (MIC) against *E. coli* using machine learning.
 
 ---
-
 ### 🦠 AntiBP3
 Machine learning framework for predicting antibacterial peptides against gram-positive/negative/variable bacteria.
 
 ---
-
 ### 🧪 AptCancerDB
 Comprehensive database of experimentally validated anticancer aptamers.
 
 ---
-
-### 🧫 AptBacDB
+### 🧫 AptBacterialDB
 Database of antibacterial aptamers with search, browse and visualization modules.
 
 ---
-
 ### 🦠 AptViralDB
 Database of antiviral aptamers.
 
 ---
-
 ## 📊 Current Research
 
 - AI for Antimicrobial Resistance
@@ -134,6 +118,6 @@ Database of antiviral aptamers.
 ---
 ## 🌍 Connect with Me
 
-LinkedIn:https: //www.linkedin.com/in/nisha-bajiya-273023243 
+LinkedIn:https: //www.linkedin.com/in/nisha-bajiya-273023243
 Google Scholar: https://scholar.google.com/citations?user=LaXIfVwAAAAJ&hl=en
 ORCID: https://orcid.org/0000-0002-5075-5386
