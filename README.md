@@ -112,32 +112,29 @@ My research focuses on developing AI and machine learning methods for:
 
 ---
 # Featured Projects
-### 🧬 CPPLocPred
+### 🧬 CPPLocPred (https://webs.iiitd.edu.in/raghava/cpplocpred/)
 Hierarchical AI framework for Cell Penetrating Peptide subcellular localization prediction.
-🔗 **Web Server:** https://webs.iiitd.edu.in/raghava/cpplocpred/
-
 ---
-### 🧬 CPPsite3
+### 🧬 CPPsite3 (https://webs.iiitd.edu.in/raghava/cppsite3/)
 Updated repository of Cell Penetrating Peptides.
-
 ---
-### 💊 EIPpred
+### 💊 EIPpred (https://webs.iiitd.edu.in/raghava/eippred/)
 Prediction of inhibitory concentration (MIC) against *E. coli* using machine learning.
 
 ---
-### 🦠 AntiBP3
+### 🦠 AntiBP3 (https://webs.iiitd.edu.in/raghava/antibp3/)
 Machine learning framework for predicting antibacterial peptides against gram-positive/negative/variable bacteria.
 
 ---
-### 🧪 AptCancerDB
+### 🧪 AptCancerDB (https://webs.iiitd.edu.in/raghava/aptcancerdb/)
 Comprehensive database of experimentally validated anticancer aptamers.
 
 ---
-### 🧫 AptBacterialDB
+### 🧫 AptBacterialDB (https://webs.iiitd.edu.in/raghava/aptbacterialdb/)
 Database of antibacterial aptamers with search, browse and visualization modules.
 
 ---
-### 🦠 AptViralDB
+### 🦠 AptViralDB (https://webs.iiitd.edu.in/raghava/aptviraldb/)
 Database of antiviral aptamers.
 
 ---
