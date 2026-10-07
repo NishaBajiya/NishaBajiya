@@ -20,6 +20,10 @@ I build machine learning and deep learning methods for peptide and aptamer infor
 
 ## Featured Projects
 
+
+**[AntiCapt](https://github.com/NishaBajiya/CPPLocPred)**
+Fine-Tuned Nucleotide Language Models for Predicting and Designing Anticancer Aptamers
+
 **[CPPLocPred](https://github.com/NishaBajiya/CPPLocPred)**
 Hierarchical ML framework for subcellular localization prediction of cell-penetrating peptides.
 
