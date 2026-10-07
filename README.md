@@ -21,13 +21,13 @@ I build machine learning and deep learning methods for peptide and aptamer infor
 ## Featured Projects
 
 
-**[AntiCapt](https://github.com/NishaBajiya/CPPLocPred)**
+**[AntiCapt](https://webs.iiitd.edu.in/raghava/anticapt/)**
 Fine-Tuned Nucleotide Language Models for Predicting and Designing Anticancer Aptamers
 
-**[CPPLocPred](https://github.com/NishaBajiya/CPPLocPred)**
+**[CPPLocPred](https://webs.iiitd.edu.in/raghava/cpplocpred/)**
 Hierarchical ML framework for subcellular localization prediction of cell-penetrating peptides.
 
-**[CPPsite3](https://github.com/NishaBajiya/CPPsite3)**
+**[CPPsite3](https://webs.iiitd.edu.in/raghava/cppsite3/)**
 Updated, curated repository of experimentally validated cell-penetrating peptides.
 
 **[AntiBP3](https://webs.iiitd.edu.in/raghava/antibp3/)** — ML framework for predicting antibacterial peptides against gram-positive, gram-negative, and variable bacteria.
@@ -41,11 +41,11 @@ Updated, curated repository of experimentally validated cell-penetrating peptide
 
 **Languages:** Python, R, SQL, Bash
 
-**ML/DL:** scikit-learn, PyTorch, TensorFlow, XGBoost, LightGBM, Transformers (ProtBERT, ESM, BioBERT, PepBERT)
+**ML/DL:** scikit-learn, PyTorch, TensorFlow, XGBoost, LightGBM, Transformers (ProtBERT, ESM, BioBERT, PepBERT, DNABERT)
 
-**Bioinformatics:** Biopython, NCBI-BLAST, CD-HIT, pfeature, Nfeature
+**Bioinformatics:** Biopython, NCBI-BLAST, CD-HIT, pfeature, Nfeature, MERCI
 
-**Data:** Pandas, NumPy, SciPy, Matplotlib/Plotly
+**Data:** Pandas, NumPy, SciPy, Matplotlib/Plotly, Keras/Tensorflow, Pytorch
 
 **Tools:** Github, Linux, Jupyter, Colab
 
@@ -53,7 +53,7 @@ Updated, curated repository of experimentally validated cell-penetrating peptide
 
 ## Currently Exploring
 
-Aptamer Therapeutics, Graph neural networks and large language models applied to bioinformatics problems.
+Aptamer Therapeutics, Large language models applied to bioinformatics problems.
 
 ---
 *Full publication list on [Google Scholar](https://scholar.google.com/citations?user=LaXIfVwAAAAJ&hl=en).*
